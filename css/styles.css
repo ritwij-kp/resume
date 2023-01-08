@@ -1,0 +1,142 @@
+.top{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    font-weight: bold;
+}
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+h1{
+    color:#66BFBF;
+    font-size: 90px;
+    margin-top: 10px;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0px;
+}
+h2{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+h3{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+.middle-container{
+    padding-bottom: 50px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 35px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 450px;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    top:50px;
+    right:450px;
+}
+
+.profile-img{
+    
+    width: 25%;
+}
+
+.valstat-img{
+    
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.kamikart-img{
+    
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: 75px auto 150px auto;
+    text-align: left;
+    line-height: 1.5;
+    
+}
+
+.profile{
+    width: 50%;
+    margin:50px auto;
+}
+
+hr{
+    border-style: dotted none none none;
+    width: 3%;
+    border-width: 5px;
+    border-color: grey;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: #11999E;
+    padding: 20px;
+}
+
+.footer-link:hover{
+    color:#EAF6F6
+}
+.final{
+    margin-bottom: 40px;
+}
+.btn {
+
+    background: #11999E;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #66BFBF;
+
+    text-decoration: none;
+  }
+
+  .copyright{
+    color:#EAF6F6;
+    font-size:0.75rem;
+    margin-bottom: 0;
+  }
+
+  .valstat-link:hover{
+    opacity: 0.3;
+  }
+
+  .kamikart-link:hover{
+    opacity: 0.3;
+  }
+
+  .profilepic-link:hover{
+    opacity: 0.3;
+  }
+
